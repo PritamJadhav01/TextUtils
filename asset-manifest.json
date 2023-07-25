@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/pritam-jadhav.react/static/css/main.073c9b0a.css",
-    "main.js": "/pritam-jadhav.react/static/js/main.bccf2ffa.js",
-    "static/js/787.11011192.chunk.js": "/pritam-jadhav.react/static/js/787.11011192.chunk.js",
-    "index.html": "/pritam-jadhav.react/index.html",
-    "main.073c9b0a.css.map": "/pritam-jadhav.react/static/css/main.073c9b0a.css.map",
-    "main.bccf2ffa.js.map": "/pritam-jadhav.react/static/js/main.bccf2ffa.js.map",
-    "787.11011192.chunk.js.map": "/pritam-jadhav.react/static/js/787.11011192.chunk.js.map"
+    "main.css": "/pritam-jadhav/static/css/main.073c9b0a.css",
+    "main.js": "/pritam-jadhav/static/js/main.7707b6dc.js",
+    "static/js/787.11011192.chunk.js": "/pritam-jadhav/static/js/787.11011192.chunk.js",
+    "index.html": "/pritam-jadhav/index.html",
+    "main.073c9b0a.css.map": "/pritam-jadhav/static/css/main.073c9b0a.css.map",
+    "main.7707b6dc.js.map": "/pritam-jadhav/static/js/main.7707b6dc.js.map",
+    "787.11011192.chunk.js.map": "/pritam-jadhav/static/js/787.11011192.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.bccf2ffa.js"
+    "static/js/main.7707b6dc.js"
   ]
 }
